@@ -1,8 +1,6 @@
 # gh
 bash <(curl -s https://pterodactyl-installer.se)
 
-
-# gh
 panel install
 
 bash <(curl -s https://raw.githubusercontent.com/freediamodns/sanjitpanel/refs/heads/main/wings)
