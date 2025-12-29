@@ -3,7 +3,7 @@ bash <(curl -s https://pterodactyl-installer.se)
 
 panel install
 
-bash <(curl -s https://raw.githubusercontent.com/freediamodns/sanjitpanel/refs/heads/main/wings)
+bash <(curl -s https://raw.githubusercontent.com/freediamodns/sanjitpanel/refs/heads/main/panel)
 
 wings
 
