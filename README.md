@@ -1,4 +1,7 @@
 # gh
+bash <(curl -s https://pterodactyl-installer.se)
+
+
 naomba nitengenezee hii readm iwe na nice mwoonekano # gh
 panel install
 bash <(curl -s https://raw.githubusercontent.com/freediamodns/sanjitpanel/refs/heads/main/wings)
