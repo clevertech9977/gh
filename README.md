@@ -1,4 +1,29 @@
 # gh
+
+video link https://youtu.be/shjWwvQqhxI?si=4nYMiOGr7gNQ620W
+code 
+
+from google.colab import drive
+
+drive.mount('/content/drive')
+
+mkdir /content/drive/MyDrive/
+
+!apt install tmate
+!tmate
+
+cd /content/drive/MyDrive/
+
+https://youtu.be/zwoW6hnkYv4?si=jc8wnNPC7nQIp11A
+
+code  bash <(curl -s https://pterodactyl-installer.se)
+
+https://discord.gg/FxeW9qCRX4
+
+
+
+
+
 bash <(curl -s https://pterodactyl-installer.se)
 
 panel install
